@@ -89,13 +89,13 @@ Arc :{  size 10  angle radians(1.5)  }
 
 ## More
 
-### Examples
+Examples
 
 - [Simple Examples](Examples/SimpleExamples.md)
 - [Complex Examples](Examples/ComplexExamples.md)
 
-### Implementations
+Implementations
 
-- [Fdon Java Implementation](https://github.com/MaanooAk/fdon-java)
-- [Fdon Go Implementation](https://github.com/MaanooAk/fdon-go)
+- [Fdon Java Implementation (base, types, functions)](https://github.com/MaanooAk/fdon)
+- [Fdon Go Implementation (base)](https://github.com/MaanooAk/fdon-go)
 
