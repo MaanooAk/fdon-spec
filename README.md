@@ -97,5 +97,6 @@ Examples
 Implementations
 
 - [Fdon Java Implementation (base, types, functions)](https://github.com/MaanooAk/fdon)
+- [Fdon Javascript Implementation (base)](https://github.com/MaanooAk/fdon-js)
 - [Fdon Go Implementation (base)](https://github.com/MaanooAk/fdon-go)
 
